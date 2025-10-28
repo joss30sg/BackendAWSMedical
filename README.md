@@ -5,7 +5,7 @@ Este repositorio contiene el código fuente del backend para el sistema **Citas 
 Debido a que GitLab no permite subir archivos mayores a 100 MB, el paquete completo (build)  
 ha sido alojado externamente en Google Drive.
 
-👉 **[Descargar BackendAWSMedical.zip (400 MB)](https://drive.google.com/)**
+👉 **[Descargar BackendAWSMedical.zip (400 MB)](https://drive.google.com/file/d/1Dm8pQRkwyCM3QSFHy0i53tP58BJIR_rN/view?usp=sharing)**
 
 > 💾 Contiene la versión compilada y lista para despliegue en AWS Lambda.
 >  
