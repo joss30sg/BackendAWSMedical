@@ -1,4 +1,15 @@
 
+## 📦 Descarga del proyecto
+
+Este repositorio contiene el código fuente del backend para el sistema **Citas Médicas AWS**.  
+Debido a que GitLab no permite subir archivos mayores a 100 MB, el paquete completo (build)  
+ha sido alojado externamente en Google Drive.
+
+👉 **[Descargar BackendAWSMedical.zip (400 MB)](https://drive.google.com/)**
+
+> 💾 Contiene la versión compilada y lista para despliegue en AWS Lambda.
+>  
+> Si prefieres compilar el proyecto localmente, consulta la sección **Instalación y ejecución**.
 
 # 🏥 Appointment Service API
 
